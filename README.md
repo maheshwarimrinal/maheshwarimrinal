@@ -32,17 +32,17 @@
 | [<img src=https://user-images.githubusercontent.com/11848011/89716040-97663a80-d9c7-11ea-9889-1b13ffb539db.png width="30">](http://coreldraw.com) | [<img src=https://user-images.githubusercontent.com/11848011/89774181-03a98100-db23-11ea-9383-562480a55541.png width="40">](https://www.photoshop.com/en) |
 |---|---|
 
-- And User Interface using
+- And User Interface and User Experience using
 
 | [<img src=https://user-images.githubusercontent.com/11848011/89860223-9ea46880-dbc0-11ea-9da3-7f1419211c61.png width="35">](http://figma.com) | [<img src=https://user-images.githubusercontent.com/11848011/89860212-99dfb480-dbc0-11ea-8cfb-4a6e12ccad5d.jpg width="35">](https://www.adobe.com/in/products/xd.html) | [<img src=https://user-images.githubusercontent.com/11848011/89860228-a106c280-dbc0-11ea-9169-8da1666f5e72.png width="35">](https://www.sketch.com) |
 |---|---|---|
 
-- Version Controlled using
+- Versions Controlled using
 
 | [<img src=https://user-images.githubusercontent.com/11848011/89716004-5ff78e00-d9c7-11ea-97f8-67a6c2681285.png width="30">](https://git-scm.com) | [<img src=https://user-images.githubusercontent.com/11848011/89732363-e6fe4200-da6b-11ea-95d8-da7cc24f71f9.png width="40">](https://bitbucket.org/maheshwarimrinal/) | [<img src=https://user-images.githubusercontent.com/11848011/89732365-e9609c00-da6b-11ea-849e-03bc2992b72e.png width="40">](https://github.com/maheshwarimrinal) |
 |---|---|---|
 
-- Operating System
+- Operating Systems
 
 | [<img src=https://user-images.githubusercontent.com/11848011/89716033-8ae1e200-d9c7-11ea-93e5-c4b10be0d533.png width="30">](https://developer.apple.com/macos/) | [<img src=https://user-images.githubusercontent.com/11848011/89716064-a6e58380-d9c7-11ea-9343-1153f66909aa.png width="30">](https://www.microsoft.com/en-in/windows) | [<img src=https://user-images.githubusercontent.com/11848011/89716060-a351fc80-d9c7-11ea-915d-d06886de547f.png width="30">](https://ubuntu.com) |
 |---|---|---|
