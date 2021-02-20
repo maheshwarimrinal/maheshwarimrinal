@@ -47,7 +47,7 @@
 | [<img src=https://user-images.githubusercontent.com/11848011/89716033-8ae1e200-d9c7-11ea-93e5-c4b10be0d533.png width="30">](https://developer.apple.com/macos/) | [<img src=https://user-images.githubusercontent.com/11848011/89716064-a6e58380-d9c7-11ea-9343-1153f66909aa.png width="30">](https://www.microsoft.com/en-in/windows) | [<img src=https://user-images.githubusercontent.com/11848011/89716060-a351fc80-d9c7-11ea-915d-d06886de547f.png width="30">](https://ubuntu.com) |
 |---|---|---|
 
-### 📭 Contact me for chit chat or let's push code together
+### 📭 Contact me for chit chat or let's make some commits together
 
 | [<img src=https://user-images.githubusercontent.com/11848011/89716053-9fbe7580-d9c7-11ea-8a51-ccb4f9787739.png width="30">](https://t.me/maheshwarimrinal) | [<img src=https://user-images.githubusercontent.com/11848011/89716015-6ede4080-d9c7-11ea-833c-14059780bd19.png width="30">](http://instagram.com/maheshwarimrinal/) | [<img src=https://user-images.githubusercontent.com/11848011/89716006-6259e800-d9c7-11ea-86d4-be19395f249f.png width="40">](mailto:maheshwari.mrinal@gmail.com) |  [<img src=https://user-images.githubusercontent.com/11848011/89732604-7a844280-da6d-11ea-8240-525585e77ba2.png width="30">](http://linkedin.com/in/mrinalmaheshwari/) |
 |---|---|---|---|
