@@ -19,8 +19,8 @@
 
 - Cloud Platforms
 
-| [<img src=https://user-images.githubusercontent.com/11848011/89716098-de543000-d9c7-11ea-8545-f0d83b36af6e.png width="30">](http://heroku.com) |
-|---|
+| [<img src=https://user-images.githubusercontent.com/11848011/89716098-de543000-d9c7-11ea-8545-f0d83b36af6e.png width="30">](http://heroku.com) | [<img src=https://user-images.githubusercontent.com/11848011/148070118-35807e7c-f3e2-4bbe-b90f-eec458f4e681.png width="30">](https://aws.amazon.com) |
+|---|---|
 
 - Tools I tweak with
 
